@@ -116,5 +116,20 @@
 
 .chart-items:hover {
   opacity: 100%;
+}
 
+/* HERO-1 DASHED CIRCLE */
+.dashed-circle {
+  fill: none;
+  stroke: #75ff69;
+  stroke-width: 0.3;
+  stroke-dasharray: 2, 2;
+  stroke-dashoffset: 100;
+}
+
+/* HERO-1 DASHED CIRCLE SVG*/
+.dashed-circle-svg {
+  width: 1188px;
+  height: 1188px;
+  opacity: 50%;
 }
