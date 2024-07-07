@@ -28,9 +28,10 @@ Static Mania Jr. FrontEnd Developer Task
 
 ### Running the Application
 
-After GOING LIVE with liveserver vs code extension,
+After GOING LIVE with liveserver VS Code extension,
 
-1. Home Page
+1. Home Page :
+
 Open browser and navigate to,
 
    ```bash
@@ -38,7 +39,8 @@ Open browser and navigate to,
 
    ```
 
-2. Dashboard
+2. Dashboard :
+
 Open browser and navigate to,
 
    ```bash
