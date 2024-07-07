@@ -1,0 +1,120 @@
+/* FONTS IMPORT */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* Avenic Next LT Pro Fonts */
+@font-face {
+  font-family: "AvenirNextLTPro";
+  src: url("../assets/fonts/Avenir-Next-Font/AvenirNextLTPro-Regular.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AvenirNextLTPro";
+  src: url("../assets/fonts/Avenir-Next-Font/AvenirNextLTPro-Bold.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AvenirNextLTPro";
+  src: url("../assets/fonts/Avenir-Next-Font/AvenirNextLTPro-It.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* FONT FAMILY SWITZER VARIABLE */
+.font-Switzer {
+  font-family: "Switzer-Variable", serif;
+}
+
+/* FONT FAMILY SWITZER VARIABLE */
+.font-AvenirNextLTPro {
+  font-family: "AvenirNextLTPro", sans-serif;
+  font-weight: 400;
+}
+
+/* FONT FAMILY BOSKA VARIABLE */
+.font-Boska {
+  font-family: "Boska-Variable", serif;
+}
+
+/* FONT FAMILY ORANIENBAUM */
+.font-Oranienbaum {
+  font-family: "Oranienbaum", serif;
+}
+
+/* FONT BOSKA ITALIC */
+.boska-italic {
+  font-family: "Boska-Italic";
+}
+
+/* FONT POPPINS */
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero-4-text span {
+  color: white;
+}
+
+.hero-7-span-text span {
+  color: #75ff69;
+}
+
+/* HERO-4 TL Img Gradient */
+.tl-linear-gradient {
+  background: linear-gradient(
+    272.22deg,
+    #1b3936 10.15%,
+    rgba(27, 57, 54, 0) 100%
+  );
+}
+
+/* HERO-4 TR Img Gradient */
+.tr-linear-gradient {
+  background: linear-gradient(
+    30.8deg,
+    #1b3936 20.99%,
+    rgba(27, 57, 54, 0) 97.95%
+  );
+}
+
+/* HERO-4 BL Img Gradient */
+.bl-linear-gradient {
+  background: linear-gradient(180deg, #1b3936 0%, rgba(27, 57, 54, 0) 89.36%);
+}
+
+/* HERO-4 BR Img Gradient */
+.br-linear-gradient {
+  background: linear-gradient(
+    168.69deg,
+    #1b3936 15.04%,
+    rgba(27, 57, 54, 0) 96.83%
+  );
+}
+
+/* HERO-8 SLIDER Gradient */
+.hero-8-img-linear-gradient {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 37.83%,
+    #ffffff 85.53%
+  );
+}
+
+.chart-items {
+  width: 16px;
+  background-color: #157aff;
+  opacity: 20%;
+  transition: opacity 0.4s ease-in-out;
+  cursor: pointer;
+}
+
+.chart-items:hover {
+  opacity: 100%;
+
+}
