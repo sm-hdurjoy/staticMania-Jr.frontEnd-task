@@ -2,6 +2,22 @@
 
 Static Mania Jr. FrontEnd Developer Task
 
+## Deployed Link
+
+1. Home Page
+
+   ```bash
+   https://sm-hdurjoy.github.io/staticMania-Jr.frontEnd-task/
+
+   ```
+
+2. Dashboard
+
+   ```bash
+   https://sm-hdurjoy.github.io/staticMania-Jr.frontEnd-task/dashboard.html
+
+   ```
+
 ## Technologies Used
 
 - HTML
@@ -42,9 +58,10 @@ Static Mania Jr. FrontEnd Developer Task
 
 The application is deployed using GitHub Pages. Follow these steps to deploy your own version:
 
-1. Create an account on Netlify/Render.
-2. Connect your GitHub repository to the deployment platform.
-3. Configure the build settings:
-   - Build command: `npm run build`
-   - Publish directory: `build`
-4. Deploy the site.
+1. Create an account on GitHub
+2. Push your code to your GitHub repository
+3. Go to Pages:
+   - Select your branch from where you want to deploy your site
+   - Add a custom domain name if you want to
+   - Save Changes
+4. Site deployed!
