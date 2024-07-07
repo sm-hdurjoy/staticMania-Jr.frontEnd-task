@@ -28,7 +28,10 @@ Static Mania Jr. FrontEnd Developer Task
 
 ### Running the Application
 
+After GOING LIVE with liveserver vs code extension,
+
 1. Home Page
+Open browser and navigate to,
 
    ```bash
    http://127.0.0.1:5501/index.html
@@ -36,13 +39,12 @@ Static Mania Jr. FrontEnd Developer Task
    ```
 
 2. Dashboard
+Open browser and navigate to,
 
    ```bash
    http://127.0.0.1:5501/dashboard.html
 
    ```
-
-3. Open your browser and navigate to `http://localhost:3000`
 
 ### Project Structure
 
