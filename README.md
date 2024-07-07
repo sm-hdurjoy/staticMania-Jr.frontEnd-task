@@ -31,10 +31,10 @@ Static Mania Jr. FrontEnd Developer Task
 ### Project Structure
 
 - `assets` : Static assets like images and fonts
-  - `fonts` : folder containing fonts
-  - `images` : folder containing images
-- `css` : containing CSS files
-- `js` : containing javascript files
+  - `fonts` : Folder containing fonts
+  - `images` : Folder containing images
+- `css` : Folder containing CSS files
+- `js` : Folder containing javascript files
 - `index.html` : HTML File for the Home Page
 - `dashboard.html` : HTML File for the Dashboard
 
