@@ -30,18 +30,14 @@ Static Mania Jr. FrontEnd Developer Task
 
 After GOING LIVE with liveserver VS Code extension,
 
-1. Home Page :
-
-Open browser and navigate to,
+1. Home Page : Open browser and navigate to,
 
    ```bash
    http://127.0.0.1:5501/index.html
 
    ```
 
-2. Dashboard :
-
-Open browser and navigate to,
+2. Dashboard : Open browser and navigate to,
 
    ```bash
    http://127.0.0.1:5501/dashboard.html
